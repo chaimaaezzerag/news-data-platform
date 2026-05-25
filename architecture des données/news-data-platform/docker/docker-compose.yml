@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:13
+    container_name: news_data_postgres
+    environment:
+      POSTGRES_DB: news_data_platform
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - news_network
+
+  # Optionnel: Airflow pour l'orchestration
+  # airflow-webserver:
+  #   image: apache/airflow:2.7.0
+  #   container_name: news_data_airflow
+  #   environment:
+  #     AIRFLOW__CORE__EXECUTOR: LocalExecutor
+  #     AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://postgres:password@postgres/news_data_platform
+  #     AIRFLOW__CORE__LOAD_EXAMPLES: 'False'
+  #   ports:
+  #     - "8080:8080"
+  #   volumes:
+  #     - ./orchestration/dags:/opt/airflow/dags
+  #     - ./orchestration/logs:/opt/airflow/logs
+  #     - ./orchestration/plugins:/opt/airflow/plugins
+  #   depends_on:
+  #     - postgres
+  #   networks:
+  #     - news_network
+  #   command: webserver
+
+volumes:
+  postgres_data:
+
+networks:
+  news_network:
+    driver: bridge

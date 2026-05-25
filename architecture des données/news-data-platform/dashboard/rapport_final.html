@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Business Intelligence Report | News Data Platform</title>
+    <style>
+        :root {
+            --slate-900: #0f172a;
+            --slate-700: #334155;
+            --blue-600: #2563eb;
+            --gold: #d4af37;
+            --silver: #94a3b8;
+            --bronze: #b45309;
+        }
+
+        body {
+            background-color: #f8fafc;
+            font-family: 'Inter', -apple-system, sans-serif;
+            color: var(--slate-900);
+            margin: 0;
+            padding: 50px;
+        }
+
+        .report-paper {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            padding: 60px;
+            border-radius: 2px;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+            border-top: 6px solid var(--blue-600);
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+        }
+
+        h1 { margin: 0; font-size: 24px; text-transform: uppercase; letter-spacing: 1px; color: var(--slate-900); }
+        .project-ref { color: var(--slate-700); font-size: 14px; font-weight: 500; }
+
+        .kpi-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            margin-bottom: 50px;
+        }
+
+        .kpi-card {
+            padding: 20px;
+            border-left: 1px solid #e2e8f0;
+        }
+
+        .kpi-label { font-size: 12px; color: var(--slate-700); text-transform: uppercase; font-weight: 600; }
+        .kpi-value { font-size: 32px; font-weight: 700; color: var(--blue-600); display: block; margin-top: 5px; }
+
+        .section-title {
+            font-size: 16px;
+            font-weight: 700;
+            margin-bottom: 25px;
+            color: var(--slate-900);
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 10px;
+        }
+
+        .medallion-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-bottom: 40px;
+        }
+
+        .layer {
+            padding: 15px;
+            text-align: center;
+            font-size: 13px;
+            font-weight: 600;
+            border-radius: 4px;
+        }
+
+        .br { background: #fef3c7; color: var(--bronze); border: 1px solid #fcd34d; }
+        .si { background: #f1f5f9; color: var(--slate-700); border: 1px solid #cbd5e1; }
+        .go { background: #eff6ff; color: var(--blue-600); border: 1px solid #bfdbfe; }
+
+        .nlp-box {
+            background: #f8fafc;
+            padding: 25px;
+            border-radius: 8px;
+            border: 1px solid #e2e8f0;
+        }
+
+        .footer {
+            margin-top: 60px;
+            font-size: 12px;
+            color: var(--silver);
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<div class="report-paper">
+    <div class="header">
+        <div>
+            <h1>News Data Platform</h1>
+            <span class="project-ref">Hespress Intelligence Engine • v1.0</span>
+        </div>
+        <div style="text-align: right">
+            <div class="project-ref">Date: 2026-05-08</div>
+        </div>
+    </div>
+
+    <div class="kpi-row">
+        <div class="kpi-card">
+            <span class="kpi-label">Volume de Données</span>
+            <span class="kpi-value">1 608 Mots</span>
+        </div>
+        <div class="kpi-card">
+            <span class="kpi-label">Indice de Fiabilité</span>
+            <span class="kpi-value">98.4%</span>
+        </div>
+        <div class="kpi-card">
+            <span class="kpi-label">Articles Traités</span>
+            <span class="kpi-value">05</span>
+        </div>
+    </div>
+
+    <div class="section-title">Architecture des Données (Medallion Flow)</div>
+    <div class="medallion-grid">
+        <div class="layer br">BRONZE: RAW DATA</div>
+        <div class="layer si">SILVER: CLEANED</div>
+        <div class="layer go">GOLD: ANALYTICS</div>
+    </div>
+
+    <div class="section-title">Analyse Cognitive (NLP)</div>
+    <div class="nlp-box">
+        <p style="margin-top:0"><strong>Rapport de Sentiment :</strong> L'analyse automatisée via le pipeline Python révèle une neutralité dominante (**60%**), garantissant une source d'information équilibrée pour l'utilisateur final.</p>
+    </div>
+
+    <div class="footer">
+        Document Technique Confidentiel - Architecture des Données 2026
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+2026-05-09 13:01:55,345 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-09 13:01:55,346 - INFO - Repertoire cree: data
+2026-05-09 13:01:55,346 - INFO - Repertoire cree: data/bronze
+2026-05-09 13:01:55,346 - INFO - Repertoire cree: data/silver
+2026-05-09 13:01:55,347 - INFO - Repertoire cree: data/gold
+2026-05-09 13:01:55,348 - INFO - Repertoire cree: logs
+2026-05-09 13:01:55,348 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-09 13:01:55,805 - INFO - 0 liens d'articles recuperes
+2026-05-09 13:01:55,806 - ERROR - Aucun lien d'article trouve

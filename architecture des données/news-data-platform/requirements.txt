@@ -1,0 +1,24 @@
+# Dépendances Python pour News Data Platform
+# Installation: pip install -r requirements.txt
+
+# Web scraping
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+
+# Data processing
+# (collections, json, os, re, logging sont inclus dans Python standard)
+
+# Database
+# SQLite est inclus dans Python, pas besoin d'installation
+
+# Development (optionnel)
+# pytest>=7.0.0        # Pour les tests
+# black>=22.0.0        # Formatage du code
+# flake8>=4.0.0        # Linting
+
+# Note: Pour la visualisation (optionnel)
+matplotlib>=3.5.0
+pandas>=2.0.0
+openpyxl>=3.0.0
+# seaborn>=0.11.0
+# plotly>=5.0.0

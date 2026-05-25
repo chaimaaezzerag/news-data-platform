@@ -1,0 +1,401 @@
+2026-05-02 20:01:43,528 - INFO - Récupération des liens depuis https://www.hespress.com/
+2026-05-02 20:08:18,021 - INFO - Récupération des liens depuis https://www.hespress.com/
+2026-05-02 20:16:08,080 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-02 20:16:08,081 - INFO - Repertoire cree: data
+2026-05-02 20:16:08,081 - INFO - Repertoire cree: data/bronze
+2026-05-02 20:16:08,081 - INFO - Repertoire cree: data/silver
+2026-05-02 20:16:08,081 - INFO - Repertoire cree: data/gold
+2026-05-02 20:16:08,082 - INFO - Repertoire cree: logs
+2026-05-02 20:16:08,082 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-02 20:16:08,287 - INFO - 5 liens d'articles recuperes
+2026-05-02 20:16:08,287 - INFO - Article 1/5
+2026-05-02 20:16:08,437 - INFO - Article scrape: 4181 caracteres, 724 mots
+2026-05-02 20:16:10,438 - INFO - Article 2/5
+2026-05-02 20:16:10,560 - INFO - Article scrape: 1010 caracteres, 159 mots
+2026-05-02 20:16:12,561 - INFO - Article 3/5
+2026-05-02 20:16:12,826 - INFO - Article scrape: 4095 caracteres, 700 mots
+2026-05-02 20:16:14,827 - INFO - Article 4/5
+2026-05-02 20:16:15,169 - INFO - Article scrape: 2900 caracteres, 500 mots
+2026-05-02 20:16:17,170 - INFO - Article 5/5
+2026-05-02 20:16:17,424 - INFO - Article scrape: 3899 caracteres, 651 mots
+2026-05-02 20:16:19,427 - INFO - Donnees sauvegardees dans data/bronze/articles.json
+2026-05-02 20:16:19,427 - INFO - 5 articles sauvegardes en Bronze
+2026-05-02 20:16:19,434 - INFO - Donnees sauvegardees dans data/gold/analysis.json
+2026-05-02 20:16:19,435 - INFO - Analyse terminee: 20 mots frequents identifies
+2026-05-02 20:16:19,435 - INFO - Scraping termine avec succes
+2026-05-02 20:17:08,820 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-02 20:17:08,820 - INFO - Repertoire cree: data
+2026-05-02 20:17:08,820 - INFO - Repertoire cree: data/bronze
+2026-05-02 20:17:08,820 - INFO - Repertoire cree: data/silver
+2026-05-02 20:17:08,821 - INFO - Repertoire cree: data/gold
+2026-05-02 20:17:08,821 - INFO - Repertoire cree: logs
+2026-05-02 20:17:08,821 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-02 20:17:09,165 - INFO - 5 liens d'articles recuperes
+2026-05-02 20:17:09,166 - INFO - Article 1/5
+2026-05-02 20:17:09,431 - INFO - Article scrape: 4181 caracteres, 724 mots
+2026-05-02 20:17:11,432 - INFO - Article 2/5
+2026-05-02 20:17:11,573 - INFO - Article scrape: 1010 caracteres, 159 mots
+2026-05-02 20:17:13,574 - INFO - Article 3/5
+2026-05-02 20:17:14,109 - INFO - Article scrape: 4095 caracteres, 700 mots
+2026-05-02 20:17:16,109 - INFO - Article 4/5
+2026-05-02 20:17:16,404 - INFO - Article scrape: 2900 caracteres, 500 mots
+2026-05-02 20:17:18,405 - INFO - Article 5/5
+2026-05-02 20:17:18,679 - INFO - Article scrape: 3899 caracteres, 651 mots
+2026-05-02 20:17:20,681 - INFO - Donnees sauvegardees dans data/bronze/articles.json
+2026-05-02 20:17:20,681 - INFO - 5 articles sauvegardes en Bronze
+2026-05-02 20:17:20,687 - INFO - Donnees sauvegardees dans data/gold/analysis.json
+2026-05-02 20:17:20,687 - INFO - Analyse terminee: 20 mots frequents identifies
+2026-05-02 20:17:20,687 - INFO - Scraping termine avec succes
+2026-05-02 20:17:45,331 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-02 20:17:45,332 - INFO - Repertoire cree: data
+2026-05-02 20:17:45,332 - INFO - Repertoire cree: data/bronze
+2026-05-02 20:17:45,332 - INFO - Repertoire cree: data/silver
+2026-05-02 20:17:45,332 - INFO - Repertoire cree: data/gold
+2026-05-02 20:17:45,332 - INFO - Repertoire cree: logs
+2026-05-02 20:17:45,333 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-02 20:17:45,584 - INFO - 5 liens d'articles recuperes
+2026-05-02 20:17:45,584 - INFO - Article 1/5
+2026-05-02 20:17:45,676 - INFO - Article scrape: 4181 caracteres, 724 mots
+2026-05-02 20:17:47,677 - INFO - Article 2/5
+2026-05-02 20:17:47,802 - INFO - Article scrape: 1010 caracteres, 159 mots
+2026-05-02 20:17:49,803 - INFO - Article 3/5
+2026-05-02 20:17:49,946 - INFO - Article scrape: 4095 caracteres, 700 mots
+2026-05-02 20:17:51,947 - INFO - Article 4/5
+2026-05-02 20:17:52,302 - INFO - Article scrape: 2900 caracteres, 500 mots
+2026-05-02 20:17:54,303 - INFO - Article 5/5
+2026-05-02 20:17:54,592 - INFO - Article scrape: 3899 caracteres, 651 mots
+2026-05-02 20:17:56,595 - INFO - Donnees sauvegardees dans data/bronze/articles.json
+2026-05-02 20:17:56,595 - INFO - 5 articles sauvegardes en Bronze
+2026-05-02 20:17:56,602 - INFO - Donnees sauvegardees dans data/gold/analysis.json
+2026-05-02 20:17:56,602 - INFO - Analyse terminee: 20 mots frequents identifies
+2026-05-02 20:17:56,602 - INFO - Scraping termine avec succes
+2026-05-02 20:22:32,633 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-02 20:22:32,633 - INFO - Repertoire cree: data
+2026-05-02 20:22:32,633 - INFO - Repertoire cree: data/bronze
+2026-05-02 20:22:32,633 - INFO - Repertoire cree: data/silver
+2026-05-02 20:22:32,634 - INFO - Repertoire cree: data/gold
+2026-05-02 20:22:32,634 - INFO - Repertoire cree: logs
+2026-05-02 20:22:32,634 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-02 20:22:32,928 - INFO - 5 liens d'articles recuperes
+2026-05-02 20:22:32,928 - INFO - Article 1/5
+2026-05-02 20:22:33,037 - INFO - Article scrape: 1034 caracteres, 168 mots
+2026-05-03 21:55:10,509 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-03 21:55:10,510 - INFO - Repertoire cree: data
+2026-05-03 21:55:10,510 - INFO - Repertoire cree: data/bronze
+2026-05-03 21:55:10,511 - INFO - Repertoire cree: data/silver
+2026-05-03 21:55:10,511 - INFO - Repertoire cree: data/gold
+2026-05-03 21:55:10,511 - INFO - Repertoire cree: logs
+2026-05-03 21:55:10,512 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-03 21:55:13,790 - INFO - 0 liens d'articles recuperes
+2026-05-03 21:55:13,791 - ERROR - Aucun lien d'article trouve
+2026-05-03 21:57:46,413 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-03 21:57:46,413 - INFO - Repertoire cree: data
+2026-05-03 21:57:46,413 - INFO - Repertoire cree: data/bronze
+2026-05-03 21:57:46,413 - INFO - Repertoire cree: data/silver
+2026-05-03 21:57:46,414 - INFO - Repertoire cree: data/gold
+2026-05-03 21:57:46,414 - INFO - Repertoire cree: logs
+2026-05-03 21:57:46,414 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-03 21:57:46,990 - INFO - 0 liens d'articles recuperes
+2026-05-03 21:57:46,991 - ERROR - Aucun lien d'article trouve
+2026-05-03 22:05:10,540 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-03 22:05:10,541 - INFO - Repertoire cree: data
+2026-05-03 22:05:10,541 - INFO - Repertoire cree: data/bronze
+2026-05-03 22:05:10,541 - INFO - Repertoire cree: data/silver
+2026-05-03 22:05:10,542 - INFO - Repertoire cree: data/gold
+2026-05-03 22:05:10,542 - INFO - Repertoire cree: logs
+2026-05-03 22:05:10,542 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-03 22:05:11,341 - INFO - 0 liens d'articles recuperes
+2026-05-03 22:05:11,341 - ERROR - Aucun lien d'article trouve
+2026-05-03 22:17:08,674 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-03 22:17:08,675 - INFO - Repertoire cree: data
+2026-05-03 22:17:08,676 - INFO - Repertoire cree: data/bronze
+2026-05-03 22:17:08,676 - INFO - Repertoire cree: data/silver
+2026-05-03 22:17:08,676 - INFO - Repertoire cree: data/gold
+2026-05-03 22:17:08,676 - INFO - Repertoire cree: logs
+2026-05-03 22:17:08,676 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-03 22:17:09,363 - INFO - 0 liens d'articles recuperes
+2026-05-03 22:17:09,363 - ERROR - Aucun lien d'article trouve
+2026-05-03 22:21:52,067 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-03 22:21:52,067 - INFO - Repertoire cree: data
+2026-05-03 22:21:52,067 - INFO - Repertoire cree: data/bronze
+2026-05-03 22:21:52,067 - INFO - Repertoire cree: data/silver
+2026-05-03 22:21:52,068 - INFO - Repertoire cree: data/gold
+2026-05-03 22:21:52,068 - INFO - Repertoire cree: logs
+2026-05-03 22:21:52,068 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-03 22:21:52,550 - INFO - 0 liens d'articles recuperes
+2026-05-03 22:21:52,550 - ERROR - Aucun lien d'article trouve
+2026-05-03 22:28:43,638 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-03 22:28:43,638 - INFO - Repertoire cree: data
+2026-05-03 22:28:43,639 - INFO - Repertoire cree: data/bronze
+2026-05-03 22:28:43,639 - INFO - Repertoire cree: data/silver
+2026-05-03 22:28:43,639 - INFO - Repertoire cree: data/gold
+2026-05-03 22:28:43,640 - INFO - Repertoire cree: logs
+2026-05-03 22:28:43,640 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-03 22:28:44,390 - INFO - 0 liens d'articles recuperes
+2026-05-03 22:28:44,390 - ERROR - Aucun lien d'article trouve
+2026-05-07 16:33:27,360 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 16:33:27,362 - INFO - Repertoire cree: data
+2026-05-07 16:33:27,363 - INFO - Repertoire cree: data/bronze
+2026-05-07 16:33:27,363 - INFO - Repertoire cree: data/silver
+2026-05-07 16:33:27,364 - INFO - Repertoire cree: data/gold
+2026-05-07 16:33:27,365 - INFO - Repertoire cree: logs
+2026-05-07 16:33:27,365 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 16:33:29,377 - INFO - 0 liens d'articles recuperes
+2026-05-07 16:33:29,377 - ERROR - Aucun lien d'article trouve
+2026-05-07 17:33:03,886 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 17:33:03,888 - INFO - Repertoire cree: data
+2026-05-07 17:33:03,888 - INFO - Repertoire cree: data/bronze
+2026-05-07 17:33:03,889 - INFO - Repertoire cree: data/silver
+2026-05-07 17:33:03,889 - INFO - Repertoire cree: data/gold
+2026-05-07 17:33:03,889 - INFO - Repertoire cree: logs
+2026-05-07 17:33:03,889 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 17:33:05,328 - INFO - 0 liens d'articles recuperes
+2026-05-07 17:33:05,328 - ERROR - Aucun lien d'article trouve
+2026-05-07 18:06:38,887 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 18:06:38,888 - INFO - Repertoire cree: data
+2026-05-07 18:06:38,888 - INFO - Repertoire cree: data/bronze
+2026-05-07 18:06:38,888 - INFO - Repertoire cree: data/silver
+2026-05-07 18:06:38,889 - INFO - Repertoire cree: data/gold
+2026-05-07 18:06:38,889 - INFO - Repertoire cree: logs
+2026-05-07 18:06:38,889 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 18:06:40,008 - INFO - 0 liens d'articles recuperes
+2026-05-07 18:06:40,009 - ERROR - Aucun lien d'article trouve
+2026-05-07 18:09:58,827 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 18:09:58,827 - INFO - Repertoire cree: data
+2026-05-07 18:09:58,827 - INFO - Repertoire cree: data/bronze
+2026-05-07 18:09:58,828 - INFO - Repertoire cree: data/silver
+2026-05-07 18:09:58,828 - INFO - Repertoire cree: data/gold
+2026-05-07 18:09:58,828 - INFO - Repertoire cree: logs
+2026-05-07 18:09:58,828 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 18:09:59,624 - INFO - 0 liens d'articles recuperes
+2026-05-07 18:09:59,624 - ERROR - Aucun lien d'article trouve
+2026-05-07 18:15:32,148 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 18:15:32,149 - INFO - Repertoire cree: data
+2026-05-07 18:15:32,149 - INFO - Repertoire cree: data/bronze
+2026-05-07 18:15:32,150 - INFO - Repertoire cree: data/silver
+2026-05-07 18:15:32,150 - INFO - Repertoire cree: data/gold
+2026-05-07 18:15:32,150 - INFO - Repertoire cree: logs
+2026-05-07 18:15:32,150 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 18:15:33,154 - INFO - 0 liens d'articles recuperes
+2026-05-07 18:15:33,154 - ERROR - Aucun lien d'article trouve
+2026-05-07 18:41:15,393 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 18:41:15,393 - INFO - Repertoire cree: data
+2026-05-07 18:41:15,393 - INFO - Repertoire cree: data/bronze
+2026-05-07 18:41:15,394 - INFO - Repertoire cree: data/silver
+2026-05-07 18:41:15,394 - INFO - Repertoire cree: data/gold
+2026-05-07 18:41:15,394 - INFO - Repertoire cree: logs
+2026-05-07 18:41:15,394 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 18:41:15,655 - INFO - 5 liens d'articles recuperes
+2026-05-07 18:41:15,656 - INFO - Article 1/5
+2026-05-07 18:41:15,791 - INFO - Article scrape: 4250 caracteres, 688 mots
+2026-05-07 18:41:17,791 - INFO - Article 2/5
+2026-05-07 18:41:17,938 - INFO - Article scrape: 1898 caracteres, 309 mots
+2026-05-07 18:41:19,939 - INFO - Article 3/5
+2026-05-07 18:41:20,266 - INFO - Article scrape: 1380 caracteres, 215 mots
+2026-05-07 18:41:22,268 - INFO - Article 4/5
+2026-05-07 18:41:22,424 - INFO - Article scrape: 1866 caracteres, 284 mots
+2026-05-07 18:41:24,425 - INFO - Article 5/5
+2026-05-07 18:41:24,729 - INFO - Article scrape: 2675 caracteres, 430 mots
+2026-05-07 18:41:26,732 - INFO - Donnees sauvegardees dans data/bronze/articles.json
+2026-05-07 18:41:26,732 - INFO - 5 articles sauvegardes en Bronze
+2026-05-07 18:41:26,737 - INFO - Donnees sauvegardees dans data/gold/analysis.json
+2026-05-07 18:41:26,737 - INFO - Analyse terminee: 20 mots frequents identifies
+2026-05-07 18:41:26,738 - INFO - Scraping termine avec succes
+2026-05-07 18:47:41,618 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 18:47:41,619 - INFO - Repertoire cree: data
+2026-05-07 18:47:41,619 - INFO - Repertoire cree: data/bronze
+2026-05-07 18:47:41,619 - INFO - Repertoire cree: data/silver
+2026-05-07 18:47:41,619 - INFO - Repertoire cree: data/gold
+2026-05-07 18:47:41,620 - INFO - Repertoire cree: logs
+2026-05-07 18:47:41,620 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 18:47:41,894 - INFO - 5 liens d'articles recuperes
+2026-05-07 18:47:41,894 - INFO - Article 1/5
+2026-05-07 18:47:42,149 - INFO - Article scrape: 4250 caracteres, 688 mots
+2026-05-07 18:47:44,152 - INFO - Article 2/5
+2026-05-07 18:47:44,378 - INFO - Article scrape: 1898 caracteres, 309 mots
+2026-05-07 18:47:46,378 - INFO - Article 3/5
+2026-05-07 18:47:46,611 - INFO - Article scrape: 1380 caracteres, 215 mots
+2026-05-07 18:47:48,614 - INFO - Article 4/5
+2026-05-07 18:47:48,825 - INFO - Article scrape: 1866 caracteres, 284 mots
+2026-05-07 18:47:50,825 - INFO - Article 5/5
+2026-05-07 18:47:50,968 - INFO - Article scrape: 2675 caracteres, 430 mots
+2026-05-07 18:47:52,972 - INFO - Donnees sauvegardees dans data/bronze/articles.json
+2026-05-07 18:47:52,972 - INFO - 5 articles sauvegardes en Bronze
+2026-05-07 18:47:52,977 - INFO - Donnees sauvegardees dans data/gold/analysis.json
+2026-05-07 18:47:52,977 - INFO - Analyse terminee: 20 mots frequents identifies
+2026-05-07 18:47:52,977 - INFO - Scraping termine avec succes
+2026-05-07 18:56:43,477 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 18:56:43,477 - INFO - Repertoire cree: data
+2026-05-07 18:56:43,478 - INFO - Repertoire cree: data/bronze
+2026-05-07 18:56:43,478 - INFO - Repertoire cree: data/silver
+2026-05-07 18:56:43,478 - INFO - Repertoire cree: data/gold
+2026-05-07 18:56:43,478 - INFO - Repertoire cree: logs
+2026-05-07 18:56:43,478 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 18:56:43,768 - INFO - 5 liens d'articles recuperes
+2026-05-07 18:56:43,769 - INFO - Article 1/5
+2026-05-07 18:56:43,994 - INFO - Article scrape: 4250 caracteres, 688 mots
+2026-05-07 18:56:45,995 - INFO - Article 2/5
+2026-05-07 18:56:46,138 - INFO - Article scrape: 1898 caracteres, 309 mots
+2026-05-07 18:56:48,138 - INFO - Article 3/5
+2026-05-07 18:56:48,263 - INFO - Article scrape: 1380 caracteres, 215 mots
+2026-05-07 18:56:50,264 - INFO - Article 4/5
+2026-05-07 18:56:50,528 - INFO - Article scrape: 1866 caracteres, 284 mots
+2026-05-07 18:56:52,529 - INFO - Article 5/5
+2026-05-07 18:56:52,706 - INFO - Article scrape: 2675 caracteres, 430 mots
+2026-05-07 18:56:54,708 - INFO - Donnees sauvegardees dans data/bronze/articles.json
+2026-05-07 18:56:54,708 - INFO - 5 articles sauvegardes en Bronze
+2026-05-07 18:56:54,713 - INFO - Donnees sauvegardees dans data/gold/analysis.json
+2026-05-07 18:56:54,713 - INFO - Analyse terminee: 20 mots frequents identifies
+2026-05-07 18:56:54,713 - INFO - Scraping termine avec succes
+2026-05-07 18:59:33,230 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 18:59:33,230 - INFO - Repertoire cree: data
+2026-05-07 18:59:33,230 - INFO - Repertoire cree: data/bronze
+2026-05-07 18:59:33,230 - INFO - Repertoire cree: data/silver
+2026-05-07 18:59:33,231 - INFO - Repertoire cree: data/gold
+2026-05-07 18:59:33,231 - INFO - Repertoire cree: logs
+2026-05-07 18:59:33,231 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 18:59:33,497 - INFO - 5 liens d'articles recuperes
+2026-05-07 18:59:33,497 - INFO - Article 1/5
+2026-05-07 18:59:33,600 - INFO - Article scrape: 4250 caracteres, 688 mots
+2026-05-07 18:59:35,600 - INFO - Article 2/5
+2026-05-07 18:59:35,731 - INFO - Article scrape: 1898 caracteres, 309 mots
+2026-05-07 18:59:37,732 - INFO - Article 3/5
+2026-05-07 18:59:37,861 - INFO - Article scrape: 1380 caracteres, 215 mots
+2026-05-07 18:59:39,862 - INFO - Article 4/5
+2026-05-07 18:59:39,986 - INFO - Article scrape: 1866 caracteres, 284 mots
+2026-05-07 18:59:41,987 - INFO - Article 5/5
+2026-05-07 18:59:42,105 - INFO - Article scrape: 2675 caracteres, 430 mots
+2026-05-07 18:59:44,108 - INFO - Donnees sauvegardees dans data/bronze/articles.json
+2026-05-07 18:59:44,108 - INFO - 5 articles sauvegardes en Bronze
+2026-05-07 18:59:44,112 - INFO - Donnees sauvegardees dans data/gold/analysis.json
+2026-05-07 18:59:44,113 - INFO - Analyse terminee: 20 mots frequents identifies
+2026-05-07 18:59:44,113 - INFO - Scraping termine avec succes
+2026-05-07 19:00:30,331 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 19:00:30,331 - INFO - Repertoire cree: data
+2026-05-07 19:00:30,331 - INFO - Repertoire cree: data/bronze
+2026-05-07 19:00:30,331 - INFO - Repertoire cree: data/silver
+2026-05-07 19:00:30,332 - INFO - Repertoire cree: data/gold
+2026-05-07 19:00:30,332 - INFO - Repertoire cree: logs
+2026-05-07 19:00:30,332 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 19:00:30,611 - INFO - 5 liens d'articles recuperes
+2026-05-07 19:00:30,612 - INFO - Article 1/5
+2026-05-07 19:00:30,875 - INFO - Article scrape: 4250 caracteres, 688 mots
+2026-05-07 19:00:32,876 - INFO - Article 2/5
+2026-05-07 19:00:33,136 - INFO - Article scrape: 1898 caracteres, 309 mots
+2026-05-07 19:00:35,138 - INFO - Article 3/5
+2026-05-07 19:00:35,711 - INFO - Article scrape: 1380 caracteres, 215 mots
+2026-05-07 19:00:37,713 - INFO - Article 4/5
+2026-05-07 19:00:38,009 - INFO - Article scrape: 1866 caracteres, 284 mots
+2026-05-07 19:00:40,010 - INFO - Article 5/5
+2026-05-07 19:00:40,319 - INFO - Article scrape: 2675 caracteres, 430 mots
+2026-05-07 19:00:42,323 - INFO - Donnees sauvegardees dans data/bronze/articles.json
+2026-05-07 19:00:42,324 - INFO - 5 articles sauvegardes en Bronze
+2026-05-07 19:00:42,331 - INFO - Donnees sauvegardees dans data/gold/analysis.json
+2026-05-07 19:00:42,332 - INFO - Analyse terminee: 20 mots frequents identifies
+2026-05-07 19:00:42,332 - INFO - Scraping termine avec succes
+2026-05-07 19:08:28,083 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 19:08:28,083 - INFO - Repertoire cree: data
+2026-05-07 19:08:28,084 - INFO - Repertoire cree: data/bronze
+2026-05-07 19:08:28,084 - INFO - Repertoire cree: data/silver
+2026-05-07 19:08:28,084 - INFO - Repertoire cree: data/gold
+2026-05-07 19:08:28,084 - INFO - Repertoire cree: logs
+2026-05-07 19:08:28,085 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 19:08:28,368 - INFO - 5 liens d'articles recuperes
+2026-05-07 19:08:28,368 - INFO - Article 1/5
+2026-05-07 19:08:28,479 - INFO - Article scrape: 2973 caracteres, 470 mots
+2026-05-07 19:08:30,481 - INFO - Article 2/5
+2026-05-07 19:08:30,814 - INFO - Article scrape: 4250 caracteres, 688 mots
+2026-05-07 19:08:32,816 - INFO - Article 3/5
+2026-05-07 19:08:33,036 - INFO - Article scrape: 1898 caracteres, 309 mots
+2026-05-07 19:08:35,037 - INFO - Article 4/5
+2026-05-07 19:08:35,239 - INFO - Article scrape: 1380 caracteres, 215 mots
+2026-05-07 19:08:37,240 - INFO - Article 5/5
+2026-05-07 19:08:37,498 - INFO - Article scrape: 1866 caracteres, 284 mots
+2026-05-07 19:08:39,501 - INFO - Donnees sauvegardees dans data/bronze/articles.json
+2026-05-07 19:08:39,502 - INFO - 5 articles sauvegardes en Bronze
+2026-05-07 19:08:39,508 - INFO - Donnees sauvegardees dans data/gold/analysis.json
+2026-05-07 19:08:39,508 - INFO - Analyse terminee: 20 mots frequents identifies
+2026-05-07 19:08:39,508 - INFO - Scraping termine avec succes
+2026-05-07 19:09:29,243 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 19:09:29,243 - INFO - Repertoire cree: data
+2026-05-07 19:09:29,243 - INFO - Repertoire cree: data/bronze
+2026-05-07 19:09:29,243 - INFO - Repertoire cree: data/silver
+2026-05-07 19:09:29,244 - INFO - Repertoire cree: data/gold
+2026-05-07 19:09:29,244 - INFO - Repertoire cree: logs
+2026-05-07 19:09:29,244 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 19:09:29,529 - INFO - 5 liens d'articles recuperes
+2026-05-07 19:09:29,529 - INFO - Article 1/5
+2026-05-07 19:09:29,631 - INFO - Article scrape: 2973 caracteres, 470 mots
+2026-05-07 19:09:31,632 - INFO - Article 2/5
+2026-05-07 19:09:31,891 - INFO - Article scrape: 4250 caracteres, 688 mots
+2026-05-07 19:09:33,892 - INFO - Article 3/5
+2026-05-07 19:09:33,988 - INFO - Article scrape: 1898 caracteres, 309 mots
+2026-05-07 19:09:35,989 - INFO - Article 4/5
+2026-05-07 19:09:36,112 - INFO - Article scrape: 1380 caracteres, 215 mots
+2026-05-07 19:09:38,113 - INFO - Article 5/5
+2026-05-07 19:09:38,376 - INFO - Article scrape: 1866 caracteres, 284 mots
+2026-05-07 19:09:40,378 - INFO - Donnees sauvegardees dans data/bronze/articles.json
+2026-05-07 19:09:40,378 - INFO - 5 articles sauvegardes en Bronze
+2026-05-07 19:09:40,381 - INFO - Donnees sauvegardees dans data/gold/analysis.json
+2026-05-07 19:09:40,381 - INFO - Analyse terminee: 20 mots frequents identifies
+2026-05-07 19:09:40,381 - INFO - Scraping termine avec succes
+2026-05-07 19:10:36,597 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 19:10:36,597 - INFO - Repertoire cree: data
+2026-05-07 19:10:36,597 - INFO - Repertoire cree: data/bronze
+2026-05-07 19:10:36,598 - INFO - Repertoire cree: data/silver
+2026-05-07 19:10:36,598 - INFO - Repertoire cree: data/gold
+2026-05-07 19:10:36,598 - INFO - Repertoire cree: logs
+2026-05-07 19:10:36,598 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 19:10:36,863 - INFO - 5 liens d'articles recuperes
+2026-05-07 19:10:36,863 - INFO - Article 1/5
+2026-05-07 19:10:37,005 - INFO - Article scrape: 2973 caracteres, 470 mots
+2026-05-07 19:10:39,006 - INFO - Article 2/5
+2026-05-07 19:10:39,227 - INFO - Article scrape: 4250 caracteres, 688 mots
+2026-05-07 19:10:41,228 - INFO - Article 3/5
+2026-05-07 19:10:41,342 - INFO - Article scrape: 1898 caracteres, 309 mots
+2026-05-07 19:10:46,461 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 19:10:46,462 - INFO - Repertoire cree: data
+2026-05-07 19:10:46,462 - INFO - Repertoire cree: data/bronze
+2026-05-07 19:10:46,462 - INFO - Repertoire cree: data/silver
+2026-05-07 19:10:46,462 - INFO - Repertoire cree: data/gold
+2026-05-07 19:10:46,463 - INFO - Repertoire cree: logs
+2026-05-07 19:10:46,463 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 19:10:46,732 - INFO - 5 liens d'articles recuperes
+2026-05-07 19:10:46,732 - INFO - Article 1/5
+2026-05-07 19:10:46,832 - INFO - Article scrape: 2973 caracteres, 470 mots
+2026-05-07 19:10:48,833 - INFO - Article 2/5
+2026-05-07 19:10:48,922 - INFO - Article scrape: 4250 caracteres, 688 mots
+2026-05-07 19:10:50,923 - INFO - Article 3/5
+2026-05-07 19:10:51,036 - INFO - Article scrape: 1898 caracteres, 309 mots
+2026-05-07 19:10:53,036 - INFO - Article 4/5
+2026-05-07 19:10:53,297 - INFO - Article scrape: 1380 caracteres, 215 mots
+2026-05-07 19:10:55,297 - INFO - Article 5/5
+2026-05-07 19:10:55,536 - INFO - Article scrape: 1866 caracteres, 284 mots
+2026-05-07 19:10:57,539 - INFO - Donnees sauvegardees dans data/bronze/articles.json
+2026-05-07 19:10:57,539 - INFO - 5 articles sauvegardes en Bronze
+2026-05-07 19:10:57,542 - INFO - Donnees sauvegardees dans data/gold/analysis.json
+2026-05-07 19:10:57,542 - INFO - Analyse terminee: 20 mots frequents identifies
+2026-05-07 19:10:57,542 - INFO - Scraping termine avec succes
+2026-05-07 19:11:26,870 - INFO - Demarrage du scraper Hespress ameliore
+2026-05-07 19:11:26,871 - INFO - Repertoire cree: data
+2026-05-07 19:11:26,871 - INFO - Repertoire cree: data/bronze
+2026-05-07 19:11:26,871 - INFO - Repertoire cree: data/silver
+2026-05-07 19:11:26,871 - INFO - Repertoire cree: data/gold
+2026-05-07 19:11:26,872 - INFO - Repertoire cree: logs
+2026-05-07 19:11:26,872 - INFO - Recuperation des liens depuis https://www.hespress.com/
+2026-05-07 19:11:27,127 - INFO - 5 liens d'articles recuperes
+2026-05-07 19:11:27,127 - INFO - Article 1/5
+2026-05-07 19:11:27,236 - INFO - Article scrape: 2973 caracteres, 470 mots
+2026-05-07 19:11:29,237 - INFO - Article 2/5
+2026-05-07 19:11:29,381 - INFO - Article scrape: 4250 caracteres, 688 mots
+2026-05-07 19:11:31,382 - INFO - Article 3/5
+2026-05-07 19:11:31,773 - INFO - Article scrape: 1898 caracteres, 309 mots
+2026-05-07 19:11:33,774 - INFO - Article 4/5
+2026-05-07 19:11:34,010 - INFO - Article scrape: 1380 caracteres, 215 mots
+2026-05-07 19:11:36,011 - INFO - Article 5/5
+2026-05-07 19:11:36,149 - INFO - Article scrape: 1866 caracteres, 284 mots
+2026-05-07 19:11:38,151 - INFO - Donnees sauvegardees dans data/bronze/articles.json
+2026-05-07 19:11:38,151 - INFO - 5 articles sauvegardes en Bronze
+2026-05-07 19:11:38,156 - INFO - Donnees sauvegardees dans data/gold/analysis.json
+2026-05-07 19:11:38,156 - INFO - Analyse terminee: 20 mots frequents identifies
+2026-05-07 19:11:38,156 - INFO - Scraping termine avec succes
